@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Test Post"
-date:   2019-04-07 18:34:10 +0700
-categories: [python, django]
+title:  "Title"
+date:   yyyy-mm-dd
+categories: [category, category]
 ---
 
 Text.
@@ -51,10 +51,3 @@ wget -r --no-parent http://mysite.com/configs/.vim/
 ```shell
 /etc/apache2/sites-available/pydash.conf
 ```
-<img src="/static/img/avatar.jpg" alt="" style="width: 50%; height: 50%">
-
-Text text text
-
-![avatar](/static/img/avatar.jpg)
-
-Text text
