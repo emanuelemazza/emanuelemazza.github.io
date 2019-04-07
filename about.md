@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+I'm a network specialist working for Google Cloud.
+Previous working experiences in VMW (NSX) and CSCO
 
-email: agus[at]python.web.id
+email: emazza[youknowhat]gmail.com
