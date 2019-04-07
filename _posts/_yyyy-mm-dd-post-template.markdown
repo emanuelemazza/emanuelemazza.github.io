@@ -51,3 +51,8 @@ wget -r --no-parent http://mysite.com/configs/.vim/
 ```shell
 /etc/apache2/sites-available/pydash.conf
 ```
+<img src="/static/img/avatar.jpg" alt="" style="width: 50%; height: 50%; text-align:center">
+
+<p style="text-align:center;"><img src="/static/img/avatar.jpg" alt="" style="width: 50%; height: 50%"></p>
+
+![avatar](/static/img/avatar.jpg)
