@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a network specialist working for Google Cloud.  
-Previous working experiences in VMW (NSX) and CSCO  
+I work as a network specialist at Google Cloud.  
+I've been working in VMW (NSX) and in CSCO  
 
-email: emazza[youknowhat]gmail.com
+email: emanuele.mazza[youknowhat]gmail.com
