@@ -1,11 +1,11 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
+title: Networking Charms
+description: My Personal Networking Blog
+author: Emanuele Mazza
 github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+about: I’m currently a network specialist working for Google Cloud.
+disqus_shortname:
+google_analytics:
+avatar_url: /static/img/emazza.jpg
 
 enableTags: true
 tagarray: []
