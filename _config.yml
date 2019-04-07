@@ -16,16 +16,16 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
+    # - icon: fa-facebook
+    #   link: "#"
+    # - icon: fa-twitter
+    #   link: "#"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/emanuelemazza/"
+    # - icon: fa-stack-exchange
+    #   link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/emanuelemazza"
 
 share:
   twitter_username: github.io
@@ -34,12 +34,12 @@ share:
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+    # - text: My Projects
+    #   url: /projects/
+    # - text: XML Feed
+    #   url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://emanuelemazza.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
