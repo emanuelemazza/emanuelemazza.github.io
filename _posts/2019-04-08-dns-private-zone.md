@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DNS Private Zone"
-date:   2019-04-09
+date:   2019-04-10
 categories: [category, category]
 ---
 
