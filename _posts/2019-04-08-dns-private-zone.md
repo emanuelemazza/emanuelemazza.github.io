@@ -5,7 +5,7 @@ date:   2019-04-99
 categories: [category, category]
 ---
 
-Here is how you create a private zone in GCP
+FUCK YOU
 
 * Open the Console
 
