@@ -9,7 +9,7 @@ Here is how you create a private zone in GCP
 
 * Open the Console
 
-<p style="text-align:left;"><img src="/static/img/dns-create-zone.png" alt="" style="width: 50%; height: 50%"></p>
+<p style="text-align:center;"><img src="/static/img/dns-create-zone.png" alt="" style="width: 70%; height: 70%"></p>
 
 
 Text and new line.   
