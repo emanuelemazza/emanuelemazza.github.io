@@ -7,7 +7,7 @@ categories: [category, category]
 
 Here is how you create a private zone in GCP
 
-#### **Open the Console**
+#### Open the Console
 
 <p style="text-align:center;"><img src="/static/img/dns-create-zone.png" alt="" style="width: 50%; height: 50%"></p>
 
