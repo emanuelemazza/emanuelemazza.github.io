@@ -1,4 +1,14 @@
 ---
 label: Blog post
 hide_body: false
-fields: []
+fields:
+- name: text
+  type: text
+  config:
+    required: false
+  label: text
+- name: nk
+  type: file
+  config:
+    maxSize: 250
+  label: nk
