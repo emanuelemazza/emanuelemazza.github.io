@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "DNS Private Zone"
 date:   2019-04-08
 categories: [category, category]
