@@ -24,6 +24,5 @@ fields:
   name: categories
   label: categories
 pages:
-- _posts/2020-04-07-un-bel-post.md
 - _posts/2020-04-08-secondo.md
 - _posts/ewewew.md
