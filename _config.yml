@@ -1,8 +1,8 @@
 title: Cloud Networking Candies
 description: My Personal Networking Blog
 author: Emanuele Mazza
-github:
-about: MEA Network Specialist at Google Cloud
+github: https://emanuelemazza.github.io
+about: EMEA Network Specialist at Google CloudZZ
 disqus_shortname:
 google_analytics: UA-137881405-1
 avatar_url: /static/img/emazza.jpg
@@ -25,7 +25,7 @@ social:
     # - icon: fa-stack-exchange
     #   link: "#"
     - icon: fa-github
-      link: "https://www.linkedin.com/in/emanuelemazza/"
+      link: "https://emanuelemazza.github.io"
 
 share:
   twitter_username:
