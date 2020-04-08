@@ -12,5 +12,3 @@ fields:
   config:
     maxSize: 250
   label: nk
-pages:
-- _posts/Post-Test.md
