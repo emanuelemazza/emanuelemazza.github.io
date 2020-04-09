@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: VPC
+categories: vpc
 title: VPC
 permalink: /category/vpc
 ---
