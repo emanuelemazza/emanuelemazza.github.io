@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: vpc
+categories: VPC
 title: VPC
-permalink: /category/vpc
+permalink: /category/VPC
 ---
