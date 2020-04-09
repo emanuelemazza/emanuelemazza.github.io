@@ -9,4 +9,4 @@ Previously I've been working as a TME for VMW (NSBU) and as a Solution Architect
 
 email: emanuele.mazza\[youknowhat\]gmail.com
 
-[linkedin](profile.emazza.net "Linkedin")
+linkdin: profile.emazza.net
