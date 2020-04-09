@@ -5,7 +5,7 @@ github: https://github.com/emanuelemazza
 about: EMEA Network Specialist at Google Cloud
 disqus_shortname:
 google_analytics: UA-137881405-1
-avatar_url: https://github.com/emanuelemazza/emanuelemazza.github.io/blob/master/static/img/emazza.jpg
+avatar_url: /static/img/emazza.jpg
 
 enableTags: true
 tagarray: []
@@ -21,25 +21,25 @@ social:
     # - icon: fa-twitter
     #   link: "#"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/emanuelemazza/"
+      link: "#"
     # - icon: fa-stack-exchange
     #   link: "#"
     - icon: fa-github
-      link: "https://github.com/emanuelemazza"
+      link: "#"
 
 share:
   twitter_username:
   fb_appid:
 
 urls:
-    - text: About Me
+    - text: About
       url: /about/
     # - text: My Projects
     #   url: /projects/
     # - text: XML Feed
     #   url: /feed.xml
 
-url: "profile.emazza.net"
+url: "https://emanuelemazza.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
