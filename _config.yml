@@ -20,12 +20,12 @@ social:
     #   link: "#"
     # - icon: fa-twitter
     #   link: "#"
-    icon: fa-linkedin
-    link: "https://www.linkedin.com/in/emanuelemazza/"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/emanuelemazza/"
     # - icon: fa-stack-exchange
     #   link: "#"
-    icon: fa-github
-    link: "https://github.com/emanuelemazza"
+    - icon: fa-github
+      link: "https://github.com/emanuelemazza"
 
 share:
   twitter_username:
