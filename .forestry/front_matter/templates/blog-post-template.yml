@@ -3,20 +3,12 @@ label: Blog Post Template
 hide_body: false
 fields:
 - type: text
-  name: layout
+  name: post
   label: layout
+  description: Use "post"
 - type: text
   name: title
   label: title
-- name: text_area
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: brief
 - type: datetime
   name: date
   label: date
